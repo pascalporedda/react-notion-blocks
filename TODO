@@ -1,0 +1,8 @@
+[] get semantic release up and going
+[] publish the package to npm
+[] implement the todo block
+[] find a way to let the user style the toggle block
+    [] do we want the headlessui dependency for the disclosure component?
+[] setup unit tests
+[] configure ci
+[] setup github pages
